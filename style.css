@@ -1,0 +1,10 @@
+ .noborderentry {
+ 	font-family: "Meiryo", "Hiragino Kaku Gothic ProN", "MS PGothic", Osaka, sans-serif;
+ }
+ 
+ .borderentry {
+ 	font-family: "Meiryo", "Hiragino Kaku Gothic ProN", "MS PGothic", Osaka, sans-serif;
+ 	border-width: 2px;
+ 	border-color: #FF0000;
+ 	margin: 2px 2px 2px 2px;
+ }
